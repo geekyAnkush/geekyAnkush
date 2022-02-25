@@ -8,7 +8,7 @@
 <br><br>
 - 🔭 I’m currently **pursuing BE in IT**
 
-- 👯 I’m looking to collaborate on **Full Stack projects**
+- 👯 I’m looking to collaborate on **Full Stack and Web 3.0 projects**
 
 - 💬 Feel free to ask ,if u need my help with any project.
 

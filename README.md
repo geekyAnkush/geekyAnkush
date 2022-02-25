@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <!-- <img align="right" src="https://cdn.discordapp.com/attachments/773803149890027520/780032461681066004/tenor.gif" alt="Coder GIF" width="450" height="350"> -->
-<img align="right" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5f1a6f76-36c2-4489-9c80-5dbdaee61c81/dblfsi5-eda685ca-922a-4666-a316-99737daa746f.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzVmMWE2Zjc2LTM2YzItNDQ4OS05YzgwLTVkYmRhZWU2MWM4MVwvZGJsZnNpNS1lZGE2ODVjYS05MjJhLTQ2NjYtYTMxNi05OTczN2RhYTc0NmYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.cgKz3IQ3Ftr_7aeDy1oD_FDBaD8tHZDZNqZD5CTQGF8" alt="Coder GIF" width="450" height="350">
+<img align="right" src="https://c.tenor.com/eel18OEN2gIAAAAM/hacker-computer.gif" alt="Coder GIF" width="400" height="300">
 <!-- <iframe src="https://giphy.com/embed/2uxxXyTRFgIJaOZJTb" width="480" height="480" frameBorder="0" class="giphy-embed"</iframe> -->
 
 <br><br>
